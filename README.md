@@ -73,5 +73,6 @@ Lines starting with `*` are automatically rendered as bullet points and phrases 
 * Utkarsh Tyagi [utki96](https://github.com/utki96)
 * Vaibhav Agrawal [im-vaibhav](https://github.com/im-vaibhav)
 * Vasudha Todi [todivasudha](https://github.com/todivasudha)
+* Ajit Kale [ajit2704](https://github.com/ajit2704)
 
 <!--ALPHAEND-->
